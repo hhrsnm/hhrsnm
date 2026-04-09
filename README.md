@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Heherson Aledia 👋
 
-<!--
-**hhrsnm/hhrsnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineer from the Philippines 🇵🇭  
+💻 Aspiring Software Engineer  
+🌱 Passionate about building things and writing clean code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 I'm currently working on improving my software engineering skills
+- 🌱 I'm learning data structures, algorithms, and modern web/software development
+- 📫 How to reach me: hhrsnm@gmail.com
+- ⚡ Fun fact: I'm from the Philippines and coding is my passion!
+
+--- 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/hhrsnm/hhrsnm/output/snake.svg" alt="Snake animation" />
+
+###
